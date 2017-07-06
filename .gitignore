@@ -29,3 +29,4 @@
 
 # Ignore framgia-ci
 /.framgia-ci-reports
+.framgia-ci-result.temp.yml

@@ -19,3 +19,13 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Ignore database
+/config/database.yml
+/config/secrets.yml
+
+# Ignore test
+/test/
+
+# Ignore framgia-ci
+/.framgia-ci-reports
